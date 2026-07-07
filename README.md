@@ -8,7 +8,7 @@
 | ディレクトリ | 内容 | 対応する記事シリーズ |
 | --- | --- | --- |
 | [`mini-diary-app/`](./mini-diary-app) | 構造体・ファイルI/Oを使ったミニ日記アプリ | C言語で ミニ日記アプリを作ろう！（連載） |
-| [`FE-algorithm/`](./FE-algorithm) | 基本情報技術者試験・午後アルゴリズム問題の実装 | 基本情報技術者試験アルゴリズム問題（連載） |
+| [`FE-algorithm/`](./FE-algorithm) | 基本情報技術者試験・アルゴリズム問題の実装 | 基本情報技術者試験アルゴリズム問題（連載） |
 | [`holiday-calendar-app/`](./holiday-calendar-app) | 祝日対応カレンダーアプリ（C版）※Go/Kotlin/Rust版との比較企画 | C言語で 祝日カレンダーアプリを作ろう！（予定） |
 
 ## 多言語比較の方針（FE-algorithm配下）
