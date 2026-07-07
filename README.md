@@ -1,4 +1,4 @@
-# c-language-study
+# c-language-studies
 
 ブログ [my-studies.org](https://my-studies.org/category/sikaku/computer/programming/c-language/) の「C言語」カテゴリーで扱っているコードをまとめたリポジトリです。
 記事ごとにディレクトリを分け、各ディレクトリのソースコードと解説がブログ記事の内容と対応するようにしています。
