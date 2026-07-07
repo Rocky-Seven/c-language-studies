@@ -5,6 +5,7 @@
 
 # 各ディレクトリの実行ファイル（拡張子なしのバイナリ）
 bubble_sort
+search
 main
 
 # エディタ・OS関連
