@@ -1,5 +1,8 @@
 # c-language-studies
 
+C言語で学ぶ「基本情報技術者試験アルゴリズム学習リポジトリ」
+～Go/Kotlinとの比較でさらに理解を深める～
+
 ブログ [my-studies.org](https://my-studies.org/category/sikaku/computer/programming/c-language/) の「C言語」カテゴリーで扱っているコードをまとめたリポジトリです。
 記事ごとにディレクトリを分け、各ディレクトリのソースコードと解説がブログ記事の内容と対応するようにしています。
 
