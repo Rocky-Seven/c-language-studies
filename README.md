@@ -26,7 +26,7 @@ FE-algorithm/
 │   ├── go/        準備中
 │   └── kotlin/    準備中
 └── 02_search/
-    ├── c/         執筆予定
+    ├── c/         実装済み
     ├── go/        準備中
     └── kotlin/    準備中
 ```
