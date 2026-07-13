@@ -28,9 +28,9 @@ FE-algorithm/
 
 ## 対応記事
 
-- C言語で追う！基本情報技術者試験のトレース問題（バブルソート編）
-- C言語で追う！基本情報技術者試験のトレース問題（線形探索・二分探索編）
-- [バブルソートで比べる C・Go・Kotlin](https://my-studies.org/fe-comparing-bubble-sort-c-go-and-kotlin/)
-- 線形探索・二分探索で比べる C・Go・Kotlin
+- [【基本情報技術者試験】バブルソート問題をC言語のコードで確認してみよう！](https://my-studies.org/fe-lets-examine-the-bubble-sort-problem-using-c-code/)
+- [【基本情報技術者試験】C言語で追う！トレース問題（線形探索・二分探索編）](https://my-studies.org/fe-tracing-code-in-c-trace-problems-linear-search-binary-search/)
+- [【基本情報技術者試験】バブルソートで比べる C・Go・Kotlin ～同じアルゴリズムでも書き方はこんなに変わる～](https://my-studies.org/fe-comparing-bubble-sort-c-go-and-kotlin/)
+- [【基本情報技術者試験】線形探索・二分探索で比べる C・Go・Kotlin ～「探し方」の違いが書き方にも表れる～](https://my-studies.org/fe-comparing-linear-search-and-binary-search-in-c-go-and-kotlin/)
 
 ※ 各記事のURLは、ブログ [my-studies.org](https://my-studies.org/category/sikaku/computer/programming/c-language/) の該当カテゴリーから確認できます。
