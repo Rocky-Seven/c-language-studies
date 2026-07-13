@@ -8,6 +8,10 @@ bubble_sort
 search
 main
 
+# Kotlin関連の生成物
+*.jar
+kotlin-compiler-*.zip
+
 # エディタ・OS関連
 .vscode/
 .DS_Store
