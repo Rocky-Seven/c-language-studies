@@ -26,8 +26,8 @@ FE-algorithm/
 │   └── kotlin/    実装済み
 ├── 03_selection_sort/
 │   ├── c/         実装済み
-│   ├── go/        未実装
-│   └── kotlin/    未実装
+│   ├── go/        実装済み
+│   └── kotlin/    実装済み
 └── 04_insertion_sort/
     ├── c/         実装済み
     ├── go/        未実装
@@ -44,6 +44,7 @@ FE-algorithm/
 - [【基本情報技術者試験】線形探索・二分探索で比べる C・Go・Kotlin ～「探し方」の違いが書き方にも表れる～](https://my-studies.org/fe-comparing-linear-search-and-binary-search-in-c-go-and-kotlin/)
 - [【基本情報技術者試験】選択ソート問題をC言語のコードで確認してみよう！](https://my-studies.org/fe-lets-examine-the-selection-sort-problem-using-c-code/)
 - [【基本情報技術者試験】挿入ソート問題をC言語のコードで確認してみよう！](https://my-studies.org/fe-lets-examine-the-insertion-sort-problem-using-c-code/)
+- [【基本情報技術者試験】選択ソートで比べる C・Go・Kotlin ～交換のロジックは共通、書き味は言語ごとに違う～](https://my-studies.org/fe-comparing-selection-sort-in-c-go-and-kotlin-shared-swap-logic-distinct-coding-styles/)
 
 
 ※ 各記事のURLは、ブログ [my-studies.org](https://my-studies.org/category/sikaku/computer/programming/c-language/) の該当カテゴリーから確認できます。
