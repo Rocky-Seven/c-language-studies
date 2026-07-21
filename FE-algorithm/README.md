@@ -9,8 +9,8 @@
 | --- | --- | --- |
 | `01_bubble_sort/` | バブルソート | C / Go / Kotlin ともに実装済み |
 | `02_search/` | 線形探索・二分探索 | C / Go / Kotlin ともに実装済み |
-| `03_selection_sort/` | 選択ソート | C 実装済み、Go / Kotlin は未実装 |
-| `04_insertion_sort/` | 挿入ソート | C 実装済み、Go / Kotlin は未実装 |
+| `03_selection_sort/` | 選択ソート | C / Go / Kotlin ともに実装済み  |
+| `04_insertion_sort/` | 挿入ソート | C / Go / Kotlin ともに実装済み  |
 
 ## 各アルゴリズムの言語別実装状況
 
@@ -30,8 +30,8 @@ FE-algorithm/
 │   └── kotlin/    実装済み
 └── 04_insertion_sort/
     ├── c/         実装済み
-    ├── go/        未実装
-    └── kotlin/    未実装
+    ├── go/        実装済み
+    └── kotlin/    実装済み
 ```
 
 言語ごとの実行方法や、C言語版との違い（比較ポイント）は、各アルゴリズムディレクトリ配下の `c/` `go/` `kotlin/` それぞれのREADMEに記載しています。
