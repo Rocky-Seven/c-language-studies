@@ -9,7 +9,7 @@
 | --- | --- | --- |
 | [`mini-diary-app/`](https://github.com/Rocky-Seven/c-language-studies/blob/main/mini-diary-app) | 構造体・ファイルI/Oを使ったミニ日記アプリ | C言語で ミニ日記アプリを作ろう！（連載） |
 | [`FE-algorithm/`](https://github.com/Rocky-Seven/c-language-studies/blob/main/FE-algorithm) | 基本情報技術者試験・アルゴリズム問題の実装 | 基本情報技術者試験アルゴリズム問題（連載） |
-| [`schedule-app/`](https://github.com/Rocky-Seven/c-language-studies/blob/main/schedule-app) | 構造体・ファイルI/O・ソートを使ったミニ・スケジュール管理アプリ（C版）※Go/Kotlin版との比較企画 | C言語で スケジュール管理アプリ（ミニ）を作ろう！（予定） |
+| [`schedule-mini-app/`](./schedule-mini-app) | 構造体・ファイルI/O・ソートを使ったミニ・スケジュール管理アプリ（C版）※Go/Kotlin版との比較企画 | C言語で スケジュール管理アプリ（ミニ）を作ろう！（予定） |
 
 ## 多言語比較の方針（FE-algorithm配下）
 
