@@ -55,4 +55,4 @@ $ cat schedules.txt
 
 ## 対応記事
 
-「C言語で スケジュール管理アプリ（ミニ）を作ろう！」第2回
+「C言語で スケジュール管理アプリ（ミニ）を作ろう！」第2回(https://my-studies.org/lets-build-a-mini-schedule-management-app-in-c-2/)
