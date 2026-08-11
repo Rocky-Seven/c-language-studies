@@ -3,15 +3,19 @@
 *.out
 *.exe
 
-# C言語：各ディレクトリ内の実行ファイル（拡張子なし）を自動で除外
-*
-!*/
-!*.c
-!*.h
-!*.go
-!*.kt
-!*.md
-!.gitignore
+# C言語：各ディレクトリ内の実行ファイル（拡張子なし）
+schedule
+bubble_sort
+selection_sort
+insertion_sort
+binary_search
+linear_search
+search
+diary_v*
+
+# 個人データ（サンプルではなく、実運用で生成されるファイル）
+schedules.txt
+diary.txt
 
 # Kotlin関連の生成物
 *.jar
